@@ -102,8 +102,8 @@ const MealCard: React.FC<Props> = ({ strMeal, strCategory, strArea, strInstructi
                     <div className="flex flex-col justify-center w-full md:w-2/3 items-center">
                         <p className="flex items-center text-sm md:text-lg">
                             Made by 
-                            <a href="https://www.arulmozhikumar.online" target="_blank" rel="noopener noreferrer" className="ml-2 text-blue-500 flex items-center gap-1">
-                                Arulmozhikumar <Laugh />
+                            <a  target="_blank" rel="noopener noreferrer" className="ml-2 text-blue-500 flex items-center gap-1">
+                                Sri Sudharsan S <Laugh />
                             </a>
                         </p>
                         <Social />
