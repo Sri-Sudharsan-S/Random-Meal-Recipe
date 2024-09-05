@@ -1,9 +1,9 @@
 import { Linkedin, Github, Mail, } from "lucide-react";
 
 const socialLinks = [
-    { href: "https://www.linkedin.com/in/arulmozhikumar7", icon: Linkedin },
-    { href: "https://github.com/arulmozhikumar7", icon: Github },
-    { href: "mailto:arulmozhikumar7@gmail.com", icon: Mail },
+    { href: "https://www.linkedin.com/in/srisudharsans", icon: Linkedin },
+    { href: "https://github.com/Sri-Sudharsan-S", icon: Github },
+    { href: "mailto:srisudharsan432@gmail.com", icon: Mail },
     // { href: "https://www.instagram.com/arularul_7", icon: Instagram }
 ];
 
